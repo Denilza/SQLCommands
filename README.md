@@ -1,4 +1,4 @@
-# SQLCommandsHub
+# SQLCommands
 
 ## Descrição
 O **SQLCommandsHub** é um repositório centralizado para armazenar e compartilhar uma coleção de comandos SQL úteis. Este repositório é ideal para desenvolvedores, analistas de dados, e qualquer pessoa que trabalhe com bancos de dados e queira ter acesso rápido a comandos SQL organizados e documentados.
